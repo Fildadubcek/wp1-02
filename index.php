@@ -9,7 +9,7 @@
 <body>
 <?php
   $firstname = "Corey";
-  $avatar = "corey taylor.jpg";
+  $avatar = "coreytaylor.jpg";
   $lastname = "Taylor";
   $age = "47";
   $profession = "singer";
